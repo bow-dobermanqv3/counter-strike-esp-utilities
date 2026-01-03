@@ -52,3 +52,5 @@ This repository contains a **fully functional, open-source cheat for Counter-Str
 #situationalawareness #inputautomation #renderinjector #fov #recoilcontrol #silentaim  
 #offlinetesting #educationaltool #gametools #cheatengine #netvar #signatures #manualmap  
 #cs2hvh #cs2mod #cs2trainer
+
+preview.png
