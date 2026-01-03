@@ -10,6 +10,12 @@
 
 This repository contains a **fully functional, open-source cheat for Counter-Strike 2**, built for clarity, performance, and low detection risk.
 
+<div align="center">
+  <a href="https:////github.com/ваш-юзернейм/ваш-репозиторий/releases">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
+
 ### ✅ Core Modules
 - **Wallhack (ESP)**  
   See enemies through walls:  
