@@ -1,4 +1,3 @@
-preview.png
 
 # 🔥 CS2 WALLHACK + AIMBOT — UNDETECTED | OPEN-SOURCE | WORKING IN 2026
 
